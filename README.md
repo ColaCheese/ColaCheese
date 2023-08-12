@@ -10,18 +10,18 @@
 - The future plan is trying to be a freelancer 😵.
 
 <a href="https://github.com/ColaCheese">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=ColaCheese&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&border_radius=6&show_icons=true&hide=contribs&rank_icon=percentile" />
+<img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=ColaCheese&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&border_radius=6&show_icons=true&hide=contribs&rank_icon=percentile" />
 </a>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://github.com/ColaCheese">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColaCheese&layout=compact&title_color=904e95&text_color=904e95&border_color=904e95&bg_color=00000000&border_radius=6" />
+<img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColaCheese&layout=compact&title_color=904e95&text_color=904e95&border_color=904e95&bg_color=00000000&border_radius=6" />
 </a>
 
 <img height=1 align="center" src="./src/gap.svg" />
 
 <!-- wakatime data -->
 <details>
-  <summary align="center">More Data 👆</summary>
+<summary align="center">More Data 👆</summary>
 
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%203%20mins-blue)
@@ -78,9 +78,10 @@ Mac                      3 hrs 44 mins       ███████████�
 #### 🚴‍♀️ `Recent Events`
 
 <!-- event starts -->
-
 <!-- event ends -->
+
 </td>
+
 <td valign="top" width="500 px">
 
 #### 🏄‍♂️ `Current Blogs`
@@ -92,7 +93,31 @@ Mac                      3 hrs 44 mins       ███████████�
 * <a href=https://www.flynoodle.xyz/views/network/WEB%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%92%8C%E5%AE%A2%E6%88%B7%E7%AB%AF.html target='_blank'> WEB 服务器和客户端</a> - 2020-07-23
 * <a href=https://www.flynoodle.xyz/views/network/WEB%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8.html target='_blank'> WEB 代理服务器</a> - 2020-07-22
 <!-- blog ends -->
+
 </td>
+</tr>
+
+<tr>
+<td valign="top" width="500 px">
+
+#### 🚴‍♀️ `Recent Events`
+
+</td>
+
+<td valign="top" width="500 px">
+
+#### 🏄‍♂️ `Current Blogs`
+
+<!-- blog starts -->
+* <a href=https://www.flynoodle.xyz/views/frontend/%E9%98%B2%E6%8A%96%E5%92%8C%E8%8A%82%E6%B5%81.html target='_blank'> 防抖和节流</a> - 2020-08-16
+* <a href=https://www.flynoodle.xyz/views/blog/%E5%BD%93VuePress%E9%81%87%E4%B8%8AVuetify.html target='_blank'> 当 VuePress 遇上 Vuetify</a> - 2020-07-27
+* <a href=https://www.flynoodle.xyz/views/network/%E5%9F%BA%E4%BA%8ETCP&UDP%E7%9A%84%E7%BD%91%E7%BB%9C%E6%96%87%E4%BB%B6%E6%9C%8D%E5%8A%A1.html target='_blank'> 基于 TCP & UDP 的网络文件服务</a> - 2020-07-24
+* <a href=https://www.flynoodle.xyz/views/network/WEB%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%92%8C%E5%AE%A2%E6%88%B7%E7%AB%AF.html target='_blank'> WEB 服务器和客户端</a> - 2020-07-23
+* <a href=https://www.flynoodle.xyz/views/network/WEB%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8.html target='_blank'> WEB 代理服务器</a> - 2020-07-22
+<!-- blog ends -->
+
+</td>
+
 </tr>
 </table>
 
