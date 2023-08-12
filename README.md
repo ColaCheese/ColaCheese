@@ -1,7 +1,7 @@
-<!-- insert background image -->
+<!-- background image -->
 ![avatar](https://raw.githubusercontent.com/ColaCheese/ColaCheese/master/src/background.png)
 
-<!-- main intruction -->
+<!-- main introduction -->
 ## 🛸 Hello World !
 
 - Here's ColaCheese, a software developer 💻 with a cute ragdoll 🐱. 
@@ -17,9 +17,12 @@
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColaCheese&layout=compact&title_color=904e95&text_color=904e95&border_color=904e95&bg_color=00000000&border_radius=6" />
 </a>
 
-<!-- waka GitHub data -->
+<br />
+
+<!-- wakatime data -->
 <details>
   <summary>More GitHub Data 👆</summary>
+
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2041%20mins-blue)
 
@@ -76,6 +79,7 @@ Vue                      1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 09/08/2023 16:52:07 UTC
 <!--END_SECTION:waka-->
+
 </details>
 
 <!-- recent work -->
@@ -105,6 +109,8 @@ Vue                      1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 </td>
 </tr>
 </table>
+
+<br />
 
 <!-- footer -->
 <p align="center">
