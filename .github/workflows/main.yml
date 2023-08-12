@@ -1,9 +1,9 @@
 name: Update README
 
 on:
-  # Run at 12am UTC
-  schedule:
-    - cron: "0 0 * * *" 
+  # # Run at 12am UTC
+  # schedule:
+  #   - cron: "0 0 * * *" 
   
   # Allow to manually run the job at any time
   workflow_dispatch:
