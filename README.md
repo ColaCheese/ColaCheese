@@ -20,8 +20,10 @@
 <br />
 
 <!-- wakatime data -->
-<details>
-  <summary>More GitHub Data 👆</summary>
+<div>
+  <details>
+    <summary>More GitHub Data 👆</summary>
+    <br />
 
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2027%20mins-blue)
@@ -64,11 +66,10 @@ Mac                      2 hrs 27 mins       ███████████�
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/ColaCheese/ColaCheese/main/assets/bar_graph.png)
+  <!--END_SECTION:waka-->
 
-
-<!--END_SECTION:waka-->
-
-</details>
+  </details>
+</div>
 
 <!-- recent work -->
 ## 🌈 My Recent Work  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
