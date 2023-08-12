@@ -17,7 +17,7 @@
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColaCheese&layout=compact&title_color=904e95&text_color=904e95&border_color=904e95&bg_color=00000000&border_radius=6" />
 </a>
 
-<img height=20 align="center" src="./src/gap.svg" />
+<img height=15 align="center" src="./src/gap.svg" />
 
 <!-- wakatime data -->
 <details>
