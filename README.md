@@ -17,13 +17,11 @@
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ColaCheese&layout=compact&title_color=904e95&text_color=904e95&border_color=904e95&bg_color=00000000&border_radius=6" />
 </a>
 
-<br />
+<img height=20 align="center" src="./src/gap.svg" />
 
 <!-- wakatime data -->
-<div>
-  <details>
-    <summary>More GitHub Data 👆</summary>
-    <br />
+<details>
+  <summary align="center">More Data 👆</summary>
 
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2027%20mins-blue)
@@ -64,12 +62,9 @@ live2d-widget            19 mins             ███░░░░░░░░�
 💻 Operating System: 
 Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
+  <!--END_SECTION:waka-->
 
-
-<!--END_SECTION:waka-->
-
-  </details>
-</div>
+</details>
 
 <!-- recent work -->
 ## 🌈 My Recent Work  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40">
