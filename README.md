@@ -26,13 +26,15 @@
     <br />
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2027%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 104.7 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2023
+> 🏆 14 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,10 +65,8 @@ live2d-widget            19 mins             ███░░░░░░░░�
 Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/ColaCheese/ColaCheese/main/assets/bar_graph.png)
-  <!--END_SECTION:waka-->
+<!--END_SECTION:waka-->
 
   </details>
 </div>
