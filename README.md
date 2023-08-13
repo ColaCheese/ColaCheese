@@ -125,7 +125,7 @@ Mac                      3 hrs 44 mins       ███████████�
 
 <!-- footer -->
 <p align="center">
-  <img src="https://github.com/mopig/mopig/workflows/build/badge.svg" />&nbsp&nbsp
+  <img src="https://github.com/ColaCheese/ColaCheese/actions/workflows/main.yml/badge.svg" />&nbsp&nbsp
   <img src="https://img.shields.io/github/last-commit/ColaCheese/ColaCheese" />&nbsp&nbsp
   <img src="https://pageview.vercel.app/?github_user=ColaCheese" />
 </p>
