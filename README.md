@@ -23,7 +23,7 @@
 <details>
 <summary align="center">More Data 👆</summary>
 
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
@@ -75,23 +75,28 @@ Mac                      7 hrs 50 mins       ███████████�
 <tr>
 <td valign="top" width="500 px">
 
-#### 🚴‍♀️ `Recent Events`
+#### 🚴 `Recent Events`
 
 <!-- event starts -->
+* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-14
+* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-13
+* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-13
+* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-13
+* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-13
 <!-- event ends -->
 
 </td>
 
 <td valign="top" width="500 px">
 
-#### 🏄‍♂️ `Current Blogs`
+#### 🏂 `Current Blogs`
 
 <!-- blog starts -->
-* <a href=https://www.flynoodle.xyz/views/frontend/%E9%98%B2%E6%8A%96%E5%92%8C%E8%8A%82%E6%B5%81.html target='_blank'> 防抖和节流</a> - 2020-08-16
-* <a href=https://www.flynoodle.xyz/views/blog/%E5%BD%93VuePress%E9%81%87%E4%B8%8AVuetify.html target='_blank'> 当 VuePress 遇上 Vuetify</a> - 2020-07-27
-* <a href=https://www.flynoodle.xyz/views/network/%E5%9F%BA%E4%BA%8ETCP&UDP%E7%9A%84%E7%BD%91%E7%BB%9C%E6%96%87%E4%BB%B6%E6%9C%8D%E5%8A%A1.html target='_blank'> 基于 TCP & UDP 的网络文件服务</a> - 2020-07-24
-* <a href=https://www.flynoodle.xyz/views/network/WEB%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%92%8C%E5%AE%A2%E6%88%B7%E7%AB%AF.html target='_blank'> WEB 服务器和客户端</a> - 2020-07-23
-* <a href=https://www.flynoodle.xyz/views/network/WEB%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8.html target='_blank'> WEB 代理服务器</a> - 2020-07-22
+* <a href=https://juejin.cn/post/7267092670823252029 title='当 VuePress 遇上 Vuetify' target='_blank'>当 VuePress 遇上 Vuetify</a> - 1小时前
+* <a href=https://juejin.cn/post/7267091509971189818 title='前端学习笔记 1：防抖和节流' target='_blank'>前端学习笔记 1：防抖和节流</a> - 1小时前
+* <a href=https://juejin.cn/post/7267091417029427261 title='Java学习笔记 6：WEB代理服务器' target='_blank'>Java学习笔记 6：WEB代理服务器</a> - 1小时前
+* <a href=https://juejin.cn/post/7267091417029394493 title='Java学习笔记 5：WEB 服务器和客户端' target='_blank'>Java学习笔记 5：WEB 服务器和客户端</a> - 1小时前
+* <a href=https://juejin.cn/post/7267088345402097719 title='Java学习笔记 4：基于 TCP & UDP 的网络文件服务' target='_blank'>Java学习笔记 4：基于 TCP & UDP 的网络文件服务</a> - 1小时前
 <!-- blog ends -->
 
 </td>
@@ -100,24 +105,26 @@ Mac                      7 hrs 50 mins       ███████████�
 <tr>
 <td valign="top" width="500 px">
 
-#### 🚴‍♀️ `Recent Events`
+#### 🍻 `Recent Stars`
+
+<!-- star starts -->
+* <a href=https://juejin.cn/post/6844903732761591815 title='SVG动画应用-酷炫的图片展示效果' target='_blank'>SVG动画应用-酷炫的图片展示效果</a>
+* <a href=https://juejin.cn/post/6981624982489006093 title='2021年了，大厂如何使用高效的动画方案解放生产力！字节淘宝都在用，XDM，快上车！👍' target='_blank'>2021年了，大厂如何使用高效的动画方案解放生产力！字节淘宝都在用，XDM，快上车！👍</a>
+* <a href=https://juejin.cn/post/7238792624387506213 title='更高效的web动效解决方案' target='_blank'>更高效的web动效解决方案</a>
+* <a href=https://juejin.cn/post/7127285527920771086 title='GitHub主页美化教程——不一样的主页，更精彩🎈' target='_blank'>GitHub主页美化教程——不一样的主页，更精彩🎈</a>
+* <a href=https://juejin.cn/post/7212910997778350136 title='Vue3硬核源码解析系列（5）ref源码解析' target='_blank'>Vue3硬核源码解析系列（5）ref源码解析</a>
+<!-- star ends -->
 
 </td>
 
 <td valign="top" width="500 px">
 
-#### 🏄‍♂️ `Current Blogs`
+#### 🎯 `Skill Cloud`
 
-<!-- blog starts -->
-* <a href=https://www.flynoodle.xyz/views/frontend/%E9%98%B2%E6%8A%96%E5%92%8C%E8%8A%82%E6%B5%81.html target='_blank'> 防抖和节流</a> - 2020-08-16
-* <a href=https://www.flynoodle.xyz/views/blog/%E5%BD%93VuePress%E9%81%87%E4%B8%8AVuetify.html target='_blank'> 当 VuePress 遇上 Vuetify</a> - 2020-07-27
-* <a href=https://www.flynoodle.xyz/views/network/%E5%9F%BA%E4%BA%8ETCP&UDP%E7%9A%84%E7%BD%91%E7%BB%9C%E6%96%87%E4%BB%B6%E6%9C%8D%E5%8A%A1.html target='_blank'> 基于 TCP & UDP 的网络文件服务</a> - 2020-07-24
-* <a href=https://www.flynoodle.xyz/views/network/WEB%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%92%8C%E5%AE%A2%E6%88%B7%E7%AB%AF.html target='_blank'> WEB 服务器和客户端</a> - 2020-07-23
-* <a href=https://www.flynoodle.xyz/views/network/WEB%E4%BB%A3%E7%90%86%E6%9C%8D%E5%8A%A1%E5%99%A8.html target='_blank'> WEB 代理服务器</a> - 2020-07-22
-<!-- blog ends -->
+<!-- skill cloud starts -->
+<!-- skill cloud ends -->
 
 </td>
-
 </tr>
 </table>
 
@@ -125,15 +132,15 @@ Mac                      7 hrs 50 mins       ███████████�
 
 <!-- footer -->
 <p align="center">
-  <img src="https://github.com/ColaCheese/ColaCheese/actions/workflows/main.yml/badge.svg" />&nbsp&nbsp
-  <img src="https://img.shields.io/github/last-commit/ColaCheese/ColaCheese" />&nbsp&nbsp
-  <img src="https://pageview.vercel.app/?github_user=ColaCheese" />
+<img src="https://github.com/ColaCheese/ColaCheese/actions/workflows/main.yml/badge.svg" />&nbsp&nbsp
+<img src="https://img.shields.io/github/last-commit/ColaCheese/ColaCheese" />&nbsp&nbsp
+<img src="https://pageview.vercel.app/?github_user=ColaCheese" />
 </p>
 
 <p align="center">
-  <i>
-  <!-- time starts -->
-  Automatically updated on 2022-03-23 09:22:30
-  <!-- time ends -->
-  </i>
+<i>
+<!-- time starts -->
+Automatically updated on 2023-08-15 07:33:45
+<!-- time ends -->
+</i>
 </p>
