@@ -2,6 +2,7 @@ import httpx
 import pathlib
 import re
 import datetime
+import os
 from bs4 import BeautifulSoup
 
 # root directory of the env
