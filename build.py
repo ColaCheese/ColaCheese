@@ -3,7 +3,11 @@ import pathlib
 import re
 import datetime
 import os
+import shutil
+import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
+from wordcloud import WordCloud
+
 
 # root directory of the env
 root = pathlib.Path(__file__).parent.resolve()
@@ -116,7 +120,7 @@ def fetch_stars():
     return results
 
 # fetch skills from GitHub repositories and juejin.cn
-def fetch_skills():
+def fetch_skills(limits=50):
 
     languages_frequency = {}
 
@@ -125,27 +129,88 @@ def fetch_skills():
 
     # get GitHub repositories' languages frequency
     for repo in repos:
-        if repo["language"] is not None:
-            if repo["language"] in languages_frequency:
-                languages_frequency[repo["language"]] += 1
+        languages = httpx.get(repo["languages_url"], headers=headers).json()
+        for language in languages.keys():
+            if language in languages_frequency:
+                languages_frequency[language] += 1
             else:
-                languages_frequency[repo["language"]] = 1
+                languages_frequency[language] = 1
     
     # get juejin.cn articles' tags frequency
-    html = httpx.get("https://juejin.cn/user/" + USER + "/likes").text
-    soup = BeautifulSoup(html, "html.parser")
-    soup_all = soup.find_all("li", attrs={"data-growing-title": "entryList"}, limit=30)
+    url = "https://api.juejin.cn/interact_api/v1/digg/query_page?aid=2608&uuid=7202821904003204664&spider=0"
+    headers_juejin = {
+        "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+    }
+    data = {
+        "cursor":"0",
+        "user_id": USER,
+        "item_type": 2,
+        "sort_type": 2
+    }
 
-    for item in soup_all:
-        tag_list = item.find_all("a", class_="footer-tag")
-        for tag_item in tag_list:
-            tag = tag_item.get_text().strip()
-            if tag in languages_frequency:
-                languages_frequency[tag] += 1
-            else:
-                languages_frequency[tag] = 1
+    # get all articles' tags according to the cursor
+    end_flag = False
+    while end_flag == False:
+        res = httpx.post(url, headers=headers_juejin, json=data).json()
 
-    return results
+        if res["has_more"] == False:
+            break
+
+        for item in res["data"]:
+            tag_list = item["tags"]
+            for tag_item in tag_list:
+                tag_name = tag_item["tag_name"]
+
+                tag = transfrom_tags(tag_name)
+
+                if tag != False:
+                    if tag in languages_frequency:
+                        languages_frequency[tag] += 1
+                    else:
+                        languages_frequency[tag] = 1
+
+        # limit the latest 50 articles
+        if res["has_more"] and int(data["cursor"]) < limits:
+            data["cursor"] = res["cursor"]
+        else:
+            end_flag = True
+
+    return languages_frequency
+
+# transfrom tags to the format of GitHub tags
+def transfrom_tags(tag):
+    r = re.compile("[\u4e00-\u9fa5]+")
+    transfrom_map = {
+        "Vue.js": "Vue",
+        "React.js": "React"
+    }
+
+    if r.match(tag):
+        return False
+    else:
+        if tag in transfrom_map:
+            return transfrom_map[tag]
+        else:
+            return tag
+
+def generate_skill_cloud(languages_frequency):
+
+    file = "skill_cloud"
+
+    wc = WordCloud(
+        height=160,
+        mode="RGBA",
+        background_color=None,
+        max_words=1000
+    )
+
+    wc.generate_from_frequencies(languages_frequency)
+    wc.to_file(file + ".png")
+    os.unlink("./src/" + file + ".png")
+    shutil.move(file + ".png", "./src/")
+
+    return file
 
 
 if __name__ == "__main__":
@@ -174,8 +239,10 @@ if __name__ == "__main__":
     )
     rewritten = replace_chunk(rewritten, "star", stars_md)
 
-    # insert skills in markdown file
-    # fetch_skills()
+    # insert skill cloud in markdown file
+    file = generate_skill_cloud(fetch_skills())
+    skill_cloud_md = "<img src='./src/" + file + ".png' />"
+    rewritten = replace_chunk(readme_contents, "skill cloud", skill_cloud_md)
 
     # update time in markdown file
     time = (datetime.datetime.now() + datetime.timedelta(hours=8)).strftime('%Y-%m-%d %H:%M:%S')

@@ -124,6 +124,7 @@ Mac                      11 hrs 13 mins      ███████████�
 #### 🎯 `Skill Cloud`
 
 <!-- skill cloud starts -->
+<img src='./src/skill_cloud.png' />
 <!-- skill cloud ends -->
 
 </td>

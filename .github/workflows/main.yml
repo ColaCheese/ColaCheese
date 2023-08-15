@@ -32,10 +32,10 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v3
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: 3.8
-      - uses: actions/cache@v2
+      - uses: actions/cache@v3
         name: Configure pip caching
         with:
           path: ~/.cache/pip
@@ -56,8 +56,8 @@ jobs:
         run: |-
           git diff
           git config --global user.email "1052785899@qq.com"
-          git config --global user.name "Love-YY-bot"
+          git config --global user.name "readme-bot"
           git pull
           git add -A
-          git commit -m "Updated profile page" || exit 0
+          git commit -m "update: automatically update recent work by readme-bot" || exit 0
           git push
