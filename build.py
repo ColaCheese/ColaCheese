@@ -223,7 +223,7 @@ def generate_skill_cloud(languages_frequency):
         mode="RGBA",
         background_color=None,
         max_words=1000,
-        colormap="BuPu_r"
+        colormap="magma"
     )
 
     wc.generate_from_frequencies(languages_frequency)
