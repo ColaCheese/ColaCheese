@@ -218,10 +218,12 @@ def generate_skill_cloud(languages_frequency):
     file = "skill_cloud"
 
     wc = WordCloud(
+        font_path="./src/Mulled-Wine-Season.otf",
         height=160,
         mode="RGBA",
         background_color=None,
-        max_words=1000
+        max_words=1000,
+        colormap="BuPu_r"
     )
 
     wc.generate_from_frequencies(languages_frequency)
