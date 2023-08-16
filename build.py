@@ -4,8 +4,9 @@ import re
 import datetime
 import os
 import shutil
-import matplotlib.pyplot as plt
+import gevent
 from bs4 import BeautifulSoup
+from gevent import monkey
 from wordcloud import WordCloud
 
 
@@ -119,18 +120,35 @@ def fetch_stars():
 
     return results
 
+# the coroutine function to request language
+def request_language(url, headers):
+
+    return httpx.get(url, headers=headers).json()
+
 # fetch skills from GitHub repositories and juejin.cn
 def fetch_skills(limits=50):
 
+    # patch socket and ssl to make httpx support gevent
+    monkey.patch_socket()
+    monkey.patch_ssl()
+    
     languages_frequency = {}
-
     headers = {"Authorization": "Bearer %s" % TOKEN}
     repos = httpx.get("https://api.github.com/user/repos", headers=headers).json()
 
-    # get GitHub repositories' languages frequency
+    # get GitHub repositories' languages frequency using coroutine
+    jobs = []
     for repo in repos:
-        languages = httpx.get(repo["languages_url"], headers=headers).json()
-        for language in languages.keys():
+        coroutine = gevent.spawn(request_language, **{
+            "url": repo["languages_url"],
+            "headers": headers,
+        })
+        jobs.append(coroutine)
+    
+    gevent.joinall(jobs, timeout=5)
+
+    for job in jobs:
+        for language in job.value.keys():
             if language in languages_frequency:
                 languages_frequency[language] += 1
             else:
