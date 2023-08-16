@@ -36,6 +36,7 @@ def replace_chunk(content, marker, chunk, inline=False):
     if not inline:
         chunk = "\n{}\n".format(chunk)
     chunk = "<!-- {} starts -->{}<!-- {} ends -->".format(marker, chunk, marker)
+    test = r.findall(content)
     return r.sub(chunk, content)
 
 # fetch recent 5 events from github as auenthicated user
@@ -260,7 +261,7 @@ if __name__ == "__main__":
     # insert skill cloud in markdown file
     file = generate_skill_cloud(fetch_skills())
     skill_cloud_md = "<img src='./src/" + file + ".png' />"
-    rewritten = replace_chunk(readme_contents, "skill cloud", skill_cloud_md)
+    rewritten = replace_chunk(rewritten, "skill cloud", skill_cloud_md)
 
     # update time in markdown file
     time = (datetime.datetime.now() + datetime.timedelta(hours=8)).strftime('%Y-%m-%d %H:%M:%S')

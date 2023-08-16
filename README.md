@@ -80,11 +80,11 @@ Mac                      11 hrs 13 mins      ███████████�
 #### 🚴 `Recent Events`
 
 <!-- event starts -->
-* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-14
-* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-14
-* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-14
-* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-13
-* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-13
+* ⭐️ *Watch* <a href=https://github.com/unknwon/the-way-to-go_ZH_CN target='_blank'>unknwon/the-way-to-go_ZH_CN</a> - 2023-08-16
+* ⭐️ *Watch* <a href=https://github.com/flipped-aurora/gin-vue-admin target='_blank'>flipped-aurora/gin-vue-admin</a> - 2023-08-16
+* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-16
+* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-16
+* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-15
 <!-- event ends -->
 
 </td>
@@ -94,11 +94,11 @@ Mac                      11 hrs 13 mins      ███████████�
 #### 🏂 `Current Blogs`
 
 <!-- blog starts -->
-* <a href=https://juejin.cn/post/7267092670823252029 title='当 VuePress 遇上 Vuetify' target='_blank'>当 VuePress 遇上 Vuetify</a> - 3小时前
-* <a href=https://juejin.cn/post/7267091509971189818 title='前端学习笔记 1：防抖和节流' target='_blank'>前端学习笔记 1：防抖和节流</a> - 4小时前
-* <a href=https://juejin.cn/post/7267091417029427261 title='Java学习笔记 6：WEB代理服务器' target='_blank'>Java学习笔记 6：WEB代理服务器</a> - 4小时前
-* <a href=https://juejin.cn/post/7267091417029394493 title='Java学习笔记 5：WEB 服务器和客户端' target='_blank'>Java学习笔记 5：WEB 服务器和客户端</a> - 4小时前
-* <a href=https://juejin.cn/post/7267088345402097719 title='Java学习笔记 4：基于 TCP & UDP 的网络文件服务' target='_blank'>Java学习笔记 4：基于 TCP & UDP 的网络文件服务</a> - 4小时前
+* <a href=https://juejin.cn/post/7267092670823252029 title='当 VuePress 遇上 Vuetify' target='_blank'>当 VuePress 遇上 Vuetify</a> - 2天前
+* <a href=https://juejin.cn/post/7267091509971189818 title='前端学习笔记 1：防抖和节流' target='_blank'>前端学习笔记 1：防抖和节流</a> - 2天前
+* <a href=https://juejin.cn/post/7267091417029427261 title='Java学习笔记 6：WEB代理服务器' target='_blank'>Java学习笔记 6：WEB代理服务器</a> - 2天前
+* <a href=https://juejin.cn/post/7267091417029394493 title='Java学习笔记 5：WEB 服务器和客户端' target='_blank'>Java学习笔记 5：WEB 服务器和客户端</a> - 2天前
+* <a href=https://juejin.cn/post/7267088345402097719 title='Java学习笔记 4：基于 TCP & UDP 的网络文件服务' target='_blank'>Java学习笔记 4：基于 TCP & UDP 的网络文件服务</a> - 2天前
 <!-- blog ends -->
 
 </td>
@@ -110,11 +110,11 @@ Mac                      11 hrs 13 mins      ███████████�
 #### 🍻 `Recent Stars`
 
 <!-- star starts -->
+* <a href=https://juejin.cn/post/7061980386640789540 title='Go 学习路线（2022）' target='_blank'>Go 学习路线（2022）</a>
+* <a href=https://juejin.cn/post/6844903591493238792 title='Nest.js 入手以及企业化的思考' target='_blank'>Nest.js 入手以及企业化的思考</a>
+* <a href=https://juejin.cn/post/6844904160324747278 title='🚀点亮你的Vue技术栈，万字Nuxt.js实践笔记来了' target='_blank'>🚀点亮你的Vue技术栈，万字Nuxt.js实践笔记来了</a>
 * <a href=https://juejin.cn/post/6844903732761591815 title='SVG动画应用-酷炫的图片展示效果' target='_blank'>SVG动画应用-酷炫的图片展示效果</a>
 * <a href=https://juejin.cn/post/6981624982489006093 title='2021年了，大厂如何使用高效的动画方案解放生产力！字节淘宝都在用，XDM，快上车！👍' target='_blank'>2021年了，大厂如何使用高效的动画方案解放生产力！字节淘宝都在用，XDM，快上车！👍</a>
-* <a href=https://juejin.cn/post/7238792624387506213 title='更高效的web动效解决方案' target='_blank'>更高效的web动效解决方案</a>
-* <a href=https://juejin.cn/post/7127285527920771086 title='GitHub主页美化教程——不一样的主页，更精彩🎈' target='_blank'>GitHub主页美化教程——不一样的主页，更精彩🎈</a>
-* <a href=https://juejin.cn/post/7212910997778350136 title='Vue3硬核源码解析系列（5）ref源码解析' target='_blank'>Vue3硬核源码解析系列（5）ref源码解析</a>
 <!-- star ends -->
 
 </td>
@@ -143,7 +143,7 @@ Mac                      11 hrs 13 mins      ███████████�
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2023-08-17 08:30:11
+Automatically updated on 2023-08-17 08:55:28
 <!-- time ends -->
 </i>
 </p>
