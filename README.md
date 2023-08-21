@@ -80,11 +80,11 @@ Mac                      11 hrs 13 mins      ███████████�
 #### 🚴 `Recent Events`
 
 <!-- event starts -->
-* ⭐️ *Watch* <a href=https://github.com/unknwon/the-way-to-go_ZH_CN target='_blank'>unknwon/the-way-to-go_ZH_CN</a> - 2023-08-16
-* ⭐️ *Watch* <a href=https://github.com/flipped-aurora/gin-vue-admin target='_blank'>flipped-aurora/gin-vue-admin</a> - 2023-08-16
-* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-16
-* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-16
-* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-15
+* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-17
+* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-17
+* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-17
+* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-17
+* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-17
 <!-- event ends -->
 
 </td>
@@ -94,11 +94,11 @@ Mac                      11 hrs 13 mins      ███████████�
 #### 🏂 `Current Blogs`
 
 <!-- blog starts -->
-* <a href=https://juejin.cn/post/7267092670823252029 title='当 VuePress 遇上 Vuetify' target='_blank'>当 VuePress 遇上 Vuetify</a> - 2天前
-* <a href=https://juejin.cn/post/7267091509971189818 title='前端学习笔记 1：防抖和节流' target='_blank'>前端学习笔记 1：防抖和节流</a> - 2天前
-* <a href=https://juejin.cn/post/7267091417029427261 title='Java学习笔记 6：WEB代理服务器' target='_blank'>Java学习笔记 6：WEB代理服务器</a> - 2天前
-* <a href=https://juejin.cn/post/7267091417029394493 title='Java学习笔记 5：WEB 服务器和客户端' target='_blank'>Java学习笔记 5：WEB 服务器和客户端</a> - 2天前
-* <a href=https://juejin.cn/post/7267088345402097719 title='Java学习笔记 4：基于 TCP & UDP 的网络文件服务' target='_blank'>Java学习笔记 4：基于 TCP & UDP 的网络文件服务</a> - 2天前
+* <a href=https://juejin.cn/post/7267092670823252029 title='当 VuePress 遇上 Vuetify' target='_blank'>当 VuePress 遇上 Vuetify</a> - 6天前
+* <a href=https://juejin.cn/post/7267091509971189818 title='前端学习笔记 1：防抖和节流' target='_blank'>前端学习笔记 1：防抖和节流</a> - 6天前
+* <a href=https://juejin.cn/post/7267091417029427261 title='Java学习笔记 6：WEB代理服务器' target='_blank'>Java学习笔记 6：WEB代理服务器</a> - 6天前
+* <a href=https://juejin.cn/post/7267091417029394493 title='Java学习笔记 5：WEB 服务器和客户端' target='_blank'>Java学习笔记 5：WEB 服务器和客户端</a> - 6天前
+* <a href=https://juejin.cn/post/7267088345402097719 title='Java学习笔记 4：基于 TCP & UDP 的网络文件服务' target='_blank'>Java学习笔记 4：基于 TCP & UDP 的网络文件服务</a> - 6天前
 <!-- blog ends -->
 
 </td>
@@ -143,7 +143,7 @@ Mac                      11 hrs 13 mins      ███████████�
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2023-08-17 01:52:46
+Automatically updated on 2023-08-21 08:43:40
 <!-- time ends -->
 </i>
 </p>
