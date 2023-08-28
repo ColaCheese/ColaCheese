@@ -79,7 +79,7 @@ Mac                      10 hrs 9 mins       ███████████�
 #### 🚴 `Recent Events`
 
 <!-- event starts -->
-* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-17
+* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-21
 * 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-17
 * 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-17
 * 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-17
@@ -93,11 +93,11 @@ Mac                      10 hrs 9 mins       ███████████�
 #### 🏂 `Current Blogs`
 
 <!-- blog starts -->
-* <a href=https://juejin.cn/post/7267092670823252029 title='当 VuePress 遇上 Vuetify' target='_blank'>当 VuePress 遇上 Vuetify</a> - 6天前
-* <a href=https://juejin.cn/post/7267091509971189818 title='前端学习笔记 1：防抖和节流' target='_blank'>前端学习笔记 1：防抖和节流</a> - 6天前
-* <a href=https://juejin.cn/post/7267091417029427261 title='Java学习笔记 6：WEB代理服务器' target='_blank'>Java学习笔记 6：WEB代理服务器</a> - 6天前
-* <a href=https://juejin.cn/post/7267091417029394493 title='Java学习笔记 5：WEB 服务器和客户端' target='_blank'>Java学习笔记 5：WEB 服务器和客户端</a> - 6天前
-* <a href=https://juejin.cn/post/7267088345402097719 title='Java学习笔记 4：基于 TCP & UDP 的网络文件服务' target='_blank'>Java学习笔记 4：基于 TCP & UDP 的网络文件服务</a> - 6天前
+* <a href=https://juejin.cn/post/7267092670823252029 title='当 VuePress 遇上 Vuetify' target='_blank'>当 VuePress 遇上 Vuetify</a> - 13天前
+* <a href=https://juejin.cn/post/7267091509971189818 title='前端学习笔记 1：防抖和节流' target='_blank'>前端学习笔记 1：防抖和节流</a> - 13天前
+* <a href=https://juejin.cn/post/7267091417029427261 title='Java学习笔记 6：WEB代理服务器' target='_blank'>Java学习笔记 6：WEB代理服务器</a> - 13天前
+* <a href=https://juejin.cn/post/7267091417029394493 title='Java学习笔记 5：WEB 服务器和客户端' target='_blank'>Java学习笔记 5：WEB 服务器和客户端</a> - 13天前
+* <a href=https://juejin.cn/post/7267088345402097719 title='Java学习笔记 4：基于 TCP & UDP 的网络文件服务' target='_blank'>Java学习笔记 4：基于 TCP & UDP 的网络文件服务</a> - 13天前
 <!-- blog ends -->
 
 </td>
@@ -109,11 +109,11 @@ Mac                      10 hrs 9 mins       ███████████�
 #### 🍻 `Recent Stars`
 
 <!-- star starts -->
+* <a href=https://juejin.cn/post/7200316163104227388 title='go-zero-antd实战-1（项目启动）' target='_blank'>go-zero-antd实战-1（项目启动）</a>
+* <a href=https://juejin.cn/post/6867792224403488782 title='golang微服务框架go-zero系列-2:go-zero + gorm V2实践' target='_blank'>golang微服务框架go-zero系列-2:go-zero + gorm V2实践</a>
+* <a href=https://juejin.cn/post/7257333598469685306 title='从零开始基于go-zero的go web项目实战-01项目初始化' target='_blank'>从零开始基于go-zero的go web项目实战-01项目初始化</a>
 * <a href=https://juejin.cn/post/7061980386640789540 title='Go 学习路线（2022）' target='_blank'>Go 学习路线（2022）</a>
 * <a href=https://juejin.cn/post/6844903591493238792 title='Nest.js 入手以及企业化的思考' target='_blank'>Nest.js 入手以及企业化的思考</a>
-* <a href=https://juejin.cn/post/6844904160324747278 title='🚀点亮你的Vue技术栈，万字Nuxt.js实践笔记来了' target='_blank'>🚀点亮你的Vue技术栈，万字Nuxt.js实践笔记来了</a>
-* <a href=https://juejin.cn/post/6844903732761591815 title='SVG动画应用-酷炫的图片展示效果' target='_blank'>SVG动画应用-酷炫的图片展示效果</a>
-* <a href=https://juejin.cn/post/6981624982489006093 title='2021年了，大厂如何使用高效的动画方案解放生产力！字节淘宝都在用，XDM，快上车！👍' target='_blank'>2021年了，大厂如何使用高效的动画方案解放生产力！字节淘宝都在用，XDM，快上车！👍</a>
 <!-- star ends -->
 
 </td>
@@ -142,7 +142,7 @@ Mac                      10 hrs 9 mins       ███████████�
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2023-08-21 08:43:40
+Automatically updated on 2023-08-28 08:45:01
 <!-- time ends -->
 </i>
 </p>
