@@ -24,7 +24,7 @@
 <summary align="center">More Data 👆</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.9%20million%20lines%20of%20code-blue)
 
@@ -32,13 +32,13 @@
 
 > 📦 105.1 kB Used in GitHub's Storage 
  > 
-> 🏆 40 Contributions in the Year 2023
+> 🏆 45 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -46,16 +46,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 42 mins        ███████████████░░░░░░░░░░   60.21 % 
+JSON                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Vue.js                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Go                       11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Assembly                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 49 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+galacean-model           2 hrs 9 mins        ███████████████████░░░░░░   76.14 % 
+demeter                  26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+image-gallery            14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 
