@@ -73,11 +73,11 @@ No Activity Tracked This Week
 #### 🚴 `Recent Events`
 
 <!-- event starts -->
-* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-21
-* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-17
-* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-17
-* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-17
-* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-17
+* 📝 *Create* <a href=https://github.com/ColaCheese/galacean-model target='_blank'>ColaCheese/galacean-model</a> - 2023-08-29
+* 📝 *Create* <a href=https://github.com/ColaCheese/galacean-model target='_blank'>ColaCheese/galacean-model</a> - 2023-08-29
+* 📝 *Create* <a href=https://github.com/ColaCheese/demeter target='_blank'>ColaCheese/demeter</a> - 2023-08-28
+* 📝 *Create* <a href=https://github.com/ColaCheese/demeter target='_blank'>ColaCheese/demeter</a> - 2023-08-28
+* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-28
 <!-- event ends -->
 
 </td>
@@ -87,11 +87,11 @@ No Activity Tracked This Week
 #### 🏂 `Current Blogs`
 
 <!-- blog starts -->
-* <a href=https://juejin.cn/post/7267092670823252029 title='当 VuePress 遇上 Vuetify' target='_blank'>当 VuePress 遇上 Vuetify</a> - 13天前
-* <a href=https://juejin.cn/post/7267091509971189818 title='前端学习笔记 1：防抖和节流' target='_blank'>前端学习笔记 1：防抖和节流</a> - 13天前
-* <a href=https://juejin.cn/post/7267091417029427261 title='Java学习笔记 6：WEB代理服务器' target='_blank'>Java学习笔记 6：WEB代理服务器</a> - 13天前
-* <a href=https://juejin.cn/post/7267091417029394493 title='Java学习笔记 5：WEB 服务器和客户端' target='_blank'>Java学习笔记 5：WEB 服务器和客户端</a> - 13天前
-* <a href=https://juejin.cn/post/7267088345402097719 title='Java学习笔记 4：基于 TCP & UDP 的网络文件服务' target='_blank'>Java学习笔记 4：基于 TCP & UDP 的网络文件服务</a> - 13天前
+* <a href=https://juejin.cn/post/7267092670823252029 title='当 VuePress 遇上 Vuetify' target='_blank'>当 VuePress 遇上 Vuetify</a> - 18天前
+* <a href=https://juejin.cn/post/7267091509971189818 title='前端学习笔记 1：防抖和节流' target='_blank'>前端学习笔记 1：防抖和节流</a> - 18天前
+* <a href=https://juejin.cn/post/7267091417029427261 title='Java学习笔记 6：WEB代理服务器' target='_blank'>Java学习笔记 6：WEB代理服务器</a> - 18天前
+* <a href=https://juejin.cn/post/7267091417029394493 title='Java学习笔记 5：WEB 服务器和客户端' target='_blank'>Java学习笔记 5：WEB 服务器和客户端</a> - 18天前
+* <a href=https://juejin.cn/post/7267088345402097719 title='Java学习笔记 4：基于 TCP & UDP 的网络文件服务' target='_blank'>Java学习笔记 4：基于 TCP & UDP 的网络文件服务</a> - 18天前
 <!-- blog ends -->
 
 </td>
@@ -103,11 +103,11 @@ No Activity Tracked This Week
 #### 🍻 `Recent Stars`
 
 <!-- star starts -->
+* <a href=https://juejin.cn/post/7252983522020180005 title='研究一下「pnpm」这个神奇的包管理工具' target='_blank'>研究一下「pnpm」这个神奇的包管理工具</a>
+* <a href=https://juejin.cn/post/7209553403810791482 title='如何设计一个优秀的 Go Web 项目目录结构' target='_blank'>如何设计一个优秀的 Go Web 项目目录结构</a>
 * <a href=https://juejin.cn/post/7200316163104227388 title='go-zero-antd实战-1（项目启动）' target='_blank'>go-zero-antd实战-1（项目启动）</a>
 * <a href=https://juejin.cn/post/6867792224403488782 title='golang微服务框架go-zero系列-2:go-zero + gorm V2实践' target='_blank'>golang微服务框架go-zero系列-2:go-zero + gorm V2实践</a>
 * <a href=https://juejin.cn/post/7257333598469685306 title='从零开始基于go-zero的go web项目实战-01项目初始化' target='_blank'>从零开始基于go-zero的go web项目实战-01项目初始化</a>
-* <a href=https://juejin.cn/post/7061980386640789540 title='Go 学习路线（2022）' target='_blank'>Go 学习路线（2022）</a>
-* <a href=https://juejin.cn/post/6844903591493238792 title='Nest.js 入手以及企业化的思考' target='_blank'>Nest.js 入手以及企业化的思考</a>
 <!-- star ends -->
 
 </td>
@@ -136,7 +136,7 @@ No Activity Tracked This Week
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2023-08-28 08:45:01
+Automatically updated on 2023-09-02 20:02:52
 <!-- time ends -->
 </i>
 </p>
