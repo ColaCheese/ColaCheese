@@ -79,11 +79,11 @@ Mac                      2 hrs 49 mins       ███████████�
 #### 🚴 `Recent Events`
 
 <!-- event starts -->
+* ⭐️ *Watch* <a href=https://github.com/eddycjy/go-gin-example target='_blank'>eddycjy/go-gin-example</a> - 2023-09-02
+* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-09-02
 * 📝 *Create* <a href=https://github.com/ColaCheese/galacean-model target='_blank'>ColaCheese/galacean-model</a> - 2023-08-29
 * 📝 *Create* <a href=https://github.com/ColaCheese/galacean-model target='_blank'>ColaCheese/galacean-model</a> - 2023-08-29
 * 📝 *Create* <a href=https://github.com/ColaCheese/demeter target='_blank'>ColaCheese/demeter</a> - 2023-08-28
-* 📝 *Create* <a href=https://github.com/ColaCheese/demeter target='_blank'>ColaCheese/demeter</a> - 2023-08-28
-* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-08-28
 <!-- event ends -->
 
 </td>
@@ -93,11 +93,11 @@ Mac                      2 hrs 49 mins       ███████████�
 #### 🏂 `Current Blogs`
 
 <!-- blog starts -->
-* <a href=https://juejin.cn/post/7267092670823252029 title='当 VuePress 遇上 Vuetify' target='_blank'>当 VuePress 遇上 Vuetify</a> - 18天前
-* <a href=https://juejin.cn/post/7267091509971189818 title='前端学习笔记 1：防抖和节流' target='_blank'>前端学习笔记 1：防抖和节流</a> - 18天前
-* <a href=https://juejin.cn/post/7267091417029427261 title='Java学习笔记 6：WEB代理服务器' target='_blank'>Java学习笔记 6：WEB代理服务器</a> - 18天前
-* <a href=https://juejin.cn/post/7267091417029394493 title='Java学习笔记 5：WEB 服务器和客户端' target='_blank'>Java学习笔记 5：WEB 服务器和客户端</a> - 18天前
-* <a href=https://juejin.cn/post/7267088345402097719 title='Java学习笔记 4：基于 TCP & UDP 的网络文件服务' target='_blank'>Java学习笔记 4：基于 TCP & UDP 的网络文件服务</a> - 18天前
+* <a href=https://juejin.cn/post/7267092670823252029 title='当 VuePress 遇上 Vuetify' target='_blank'>当 VuePress 遇上 Vuetify</a> - 20天前
+* <a href=https://juejin.cn/post/7267091509971189818 title='前端学习笔记 1：防抖和节流' target='_blank'>前端学习笔记 1：防抖和节流</a> - 20天前
+* <a href=https://juejin.cn/post/7267091417029427261 title='Java学习笔记 6：WEB代理服务器' target='_blank'>Java学习笔记 6：WEB代理服务器</a> - 20天前
+* <a href=https://juejin.cn/post/7267091417029394493 title='Java学习笔记 5：WEB 服务器和客户端' target='_blank'>Java学习笔记 5：WEB 服务器和客户端</a> - 20天前
+* <a href=https://juejin.cn/post/7267088345402097719 title='Java学习笔记 4：基于 TCP & UDP 的网络文件服务' target='_blank'>Java学习笔记 4：基于 TCP & UDP 的网络文件服务</a> - 20天前
 <!-- blog ends -->
 
 </td>
@@ -142,7 +142,7 @@ Mac                      2 hrs 49 mins       ███████████�
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2023-09-02 20:02:52
+Automatically updated on 2023-09-04 08:45:28
 <!-- time ends -->
 </i>
 </p>
