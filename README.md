@@ -78,11 +78,11 @@ Mac                      2 hrs 6 mins        ███████████�
 #### 🚴 `Recent Events`
 
 <!-- event starts -->
-* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-09-09
-* ⭐️ *Watch* <a href=https://github.com/eddycjy/go-gin-example target='_blank'>eddycjy/go-gin-example</a> - 2023-09-02
-* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-09-02
-* 📝 *Create* <a href=https://github.com/ColaCheese/galacean-model target='_blank'>ColaCheese/galacean-model</a> - 2023-08-29
-* 📝 *Create* <a href=https://github.com/ColaCheese/galacean-model target='_blank'>ColaCheese/galacean-model</a> - 2023-08-29
+* 🚀 *Push* <a href=https://github.com/ColaCheese/galacean-model target='_blank'>ColaCheese/galacean-model</a> - 2023-09-22
+* 🔧 *Pull Request* <a href=https://github.com/ColaCheese/galacean-model target='_blank'>ColaCheese/galacean-model</a> - 2023-09-22
+* 🔧 *Pull Request* <a href=https://github.com/ColaCheese/galacean-model target='_blank'>ColaCheese/galacean-model</a> - 2023-09-22
+* 🚀 *Push* <a href=https://github.com/ColaCheese/galacean-model target='_blank'>ColaCheese/galacean-model</a> - 2023-09-22
+* 🚀 *Push* <a href=https://github.com/ColaCheese/galacean-model target='_blank'>ColaCheese/galacean-model</a> - 2023-09-19
 <!-- event ends -->
 
 </td>
@@ -141,7 +141,7 @@ Mac                      2 hrs 6 mins        ███████████�
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2023-09-18 08:45:26
+Automatically updated on 2023-09-25 08:46:07
 <!-- time ends -->
 </i>
 </p>
