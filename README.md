@@ -78,11 +78,11 @@ Mac                      5 hrs 48 mins       ███████████�
 #### 🚴 `Recent Events`
 
 <!-- event starts -->
+* 🚀 *Push* <a href=https://github.com/ColaCheese/ColaCheese target='_blank'>ColaCheese/ColaCheese</a> - 2023-09-26
 * 🚀 *Push* <a href=https://github.com/ColaCheese/galacean-model target='_blank'>ColaCheese/galacean-model</a> - 2023-09-22
 * 🔧 *Pull Request* <a href=https://github.com/ColaCheese/galacean-model target='_blank'>ColaCheese/galacean-model</a> - 2023-09-22
 * 🔧 *Pull Request* <a href=https://github.com/ColaCheese/galacean-model target='_blank'>ColaCheese/galacean-model</a> - 2023-09-22
 * 🚀 *Push* <a href=https://github.com/ColaCheese/galacean-model target='_blank'>ColaCheese/galacean-model</a> - 2023-09-22
-* 🚀 *Push* <a href=https://github.com/ColaCheese/galacean-model target='_blank'>ColaCheese/galacean-model</a> - 2023-09-19
 <!-- event ends -->
 
 </td>
@@ -141,7 +141,7 @@ Mac                      5 hrs 48 mins       ███████████�
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2023-09-25 08:46:07
+Automatically updated on 2023-10-02 08:46:40
 <!-- time ends -->
 </i>
 </p>
