@@ -24,15 +24,15 @@
 <summary align="center">More Data 👆</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-57%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 116.4 kB Used in GitHub's Storage 
+> 📦 116.8 kB Used in GitHub's Storage 
  > 
-> 🏆 63 Contributions in the Year 2023
+> 🏆 101 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,16 +46,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               13 hrs 55 mins      ████████████████████░░░░░   78.49 % 
+JSON                     2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+Vue.js                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Ezhil                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 hrs 44 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+galacean-model           10 hrs 23 mins      ███████████████░░░░░░░░░░   58.55 % 
+galacean-demo            6 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   37.04 % 
+test                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      17 hrs 44 mins      █████████████████████████   100.00 % 
 ```
 
 
