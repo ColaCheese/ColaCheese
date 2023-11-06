@@ -79,11 +79,11 @@ Mac                      17 hrs 44 mins      ███████████�
 #### 🚴 `Recent Events`
 
 <!-- event starts -->
+* ⭐️ *Watch* <a href=https://github.com/KhronosGroup/glTF-Sample-Models target='_blank'>KhronosGroup/glTF-Sample-Models</a> - 2023-11-03
+* 🚀 *Push* <a href=https://github.com/ColaCheese/galacean-demo target='_blank'>ColaCheese/galacean-demo</a> - 2023-10-30
+* 🔧 *Pull Request* <a href=https://github.com/ColaCheese/galacean-demo target='_blank'>ColaCheese/galacean-demo</a> - 2023-10-30
 * 🚀 *Push* <a href=https://github.com/ColaCheese/galacean-demo target='_blank'>ColaCheese/galacean-demo</a> - 2023-10-27
 * 🚀 *Push* <a href=https://github.com/ColaCheese/galacean-demo target='_blank'>ColaCheese/galacean-demo</a> - 2023-10-27
-* 🚀 *Push* <a href=https://github.com/ColaCheese/galacean-demo target='_blank'>ColaCheese/galacean-demo</a> - 2023-10-20
-* 🚀 *Push* <a href=https://github.com/ColaCheese/galacean-demo target='_blank'>ColaCheese/galacean-demo</a> - 2023-10-20
-* 🚀 *Push* <a href=https://github.com/ColaCheese/galacean-demo target='_blank'>ColaCheese/galacean-demo</a> - 2023-10-20
 <!-- event ends -->
 
 </td>
@@ -142,7 +142,7 @@ Mac                      17 hrs 44 mins      ███████████�
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2023-10-30 08:46:32
+Automatically updated on 2023-11-06 08:47:57
 <!-- time ends -->
 </i>
 </p>
