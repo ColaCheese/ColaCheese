@@ -79,11 +79,11 @@ Mac                      17 hrs 44 mins      ███████████�
 #### 🚴 `Recent Events`
 
 <!-- event starts -->
-* 🚀 *Push* <a href=https://github.com/ColaCheese/galacean-demo target='_blank'>ColaCheese/galacean-demo</a> - 2023-12-26
-* 📝 *Create* <a href=https://github.com/ColaCheese/galacean-demo target='_blank'>ColaCheese/galacean-demo</a> - 2023-12-26
-* 🚀 *Push* <a href=https://github.com/ColaCheese/galacean-demo target='_blank'>ColaCheese/galacean-demo</a> - 2023-12-26
-* 🚀 *Push* <a href=https://github.com/ColaCheese/galacean-demo target='_blank'>ColaCheese/galacean-demo</a> - 2023-12-26
-* 🚀 *Push* <a href=https://github.com/ColaCheese/galacean-demo target='_blank'>ColaCheese/galacean-demo</a> - 2023-12-26
+* 🚀 *Push* <a href=https://github.com/ColaCheese/demeter target='_blank'>ColaCheese/demeter</a> - 2024-03-04
+* 🚀 *Push* <a href=https://github.com/ColaCheese/demeter target='_blank'>ColaCheese/demeter</a> - 2024-03-03
+* 🔧 *Pull Request* <a href=https://github.com/ColaCheese/demeter target='_blank'>ColaCheese/demeter</a> - 2024-03-03
+* 🔧 *Pull Request* <a href=https://github.com/ColaCheese/demeter target='_blank'>ColaCheese/demeter</a> - 2024-03-03
+* 🚀 *Push* <a href=https://github.com/ColaCheese/demeter target='_blank'>ColaCheese/demeter</a> - 2024-03-03
 <!-- event ends -->
 
 </td>
@@ -142,7 +142,7 @@ Mac                      17 hrs 44 mins      ███████████�
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2024-02-26 08:47:23
+Automatically updated on 2024-03-04 08:46:51
 <!-- time ends -->
 </i>
 </p>
