@@ -81,6 +81,9 @@ Mac                      18 hrs 25 mins      ███████████�
 #### 🚴 `Recent Events`
 
 <!-- event starts -->
+* 🔧 *Pull Request* <a href=https://github.com/jiayev/GPT4V-Image-Captioner target='_blank'>jiayev/GPT4V-Image-Captioner</a> - 2024-06-22
+* 📝 *Create* <a href=https://github.com/ColaCheese/GPT4V-Image-Captioner target='_blank'>ColaCheese/GPT4V-Image-Captioner</a> - 2024-06-22
+* 🍴 *Fork* <a href=https://github.com/jiayev/GPT4V-Image-Captioner target='_blank'>jiayev/GPT4V-Image-Captioner</a> - 2024-06-18
 * 🗣 *Issue Comment* <a href=https://github.com/MrForExample/ComfyUI-3D-Pack target='_blank'>MrForExample/ComfyUI-3D-Pack</a> - 2024-05-24
 <!-- event ends -->
 
@@ -132,7 +135,7 @@ Mac                      18 hrs 25 mins      ███████████�
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2024-06-17 08:54:43
+Automatically updated on 2024-06-24 08:54:26
 <!-- time ends -->
 </i>
 </p>
