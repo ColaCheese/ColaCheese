@@ -94,11 +94,7 @@ Mac                      18 hrs 25 mins      ███████████�
 #### 🏂 `Current Blogs`
 
 <!-- blog starts -->
-* <a href=https://juejin.cn/post/7267092670823252029 title='当 VuePress 遇上 Vuetify' target='_blank'>当 VuePress 遇上 Vuetify</a> - 11月前
-* <a href=https://juejin.cn/post/7267091509971189818 title='前端学习笔记 1：防抖和节流' target='_blank'>前端学习笔记 1：防抖和节流</a> - 11月前
-* <a href=https://juejin.cn/post/7267091417029427261 title='Java学习笔记 6：WEB代理服务器' target='_blank'>Java学习笔记 6：WEB代理服务器</a> - 11月前
-* <a href=https://juejin.cn/post/7267091417029394493 title='Java学习笔记 5：WEB 服务器和客户端' target='_blank'>Java学习笔记 5：WEB 服务器和客户端</a> - 11月前
-* <a href=https://juejin.cn/post/7267088345402097719 title='Java学习笔记 4：基于 TCP & UDP 的网络文件服务' target='_blank'>Java学习笔记 4：基于 TCP & UDP 的网络文件服务</a> - 11月前
+
 <!-- blog ends -->
 
 </td>
@@ -143,7 +139,7 @@ Mac                      18 hrs 25 mins      ███████████�
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2024-07-22 08:56:35
+Automatically updated on 2024-07-29 08:56:42
 <!-- time ends -->
 </i>
 </p>
