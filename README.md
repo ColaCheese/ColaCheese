@@ -107,11 +107,7 @@ Mac                      18 hrs 25 mins      ███████████�
 #### 🍻 `Recent Stars`
 
 <!-- star starts -->
-* <a href=https://juejin.cn/post/7252983522020180005 title='研究一下「pnpm」这个神奇的包管理工具' target='_blank'>研究一下「pnpm」这个神奇的包管理工具</a>
-* <a href=https://juejin.cn/post/7209553403810791482 title='如何设计一个优秀的 Go Web 项目目录结构' target='_blank'>如何设计一个优秀的 Go Web 项目目录结构</a>
-* <a href=https://juejin.cn/post/7200316163104227388 title='go-zero-antd实战-1（项目启动）' target='_blank'>go-zero-antd实战-1（项目启动）</a>
-* <a href=https://juejin.cn/post/6867792224403488782 title='golang微服务框架go-zero系列-2:go-zero + gorm V2实践' target='_blank'>golang微服务框架go-zero系列-2:go-zero + gorm V2实践</a>
-* <a href=https://juejin.cn/post/7257333598469685306 title='从零开始基于go-zero的go web项目实战-01项目初始化' target='_blank'>从零开始基于go-zero的go web项目实战-01项目初始化</a>
+
 <!-- star ends -->
 
 </td>
@@ -140,7 +136,7 @@ Mac                      18 hrs 25 mins      ███████████�
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2024-08-05 08:56:55
+Automatically updated on 2024-08-12 08:57:30
 <!-- time ends -->
 </i>
 </p>
