@@ -81,8 +81,7 @@ Mac                      18 hrs 25 mins      ███████████�
 #### 🚴 `Recent Events`
 
 <!-- event starts -->
-* 📝 *Create* <a href=https://github.com/ColaCheese/whisky-fe target='_blank'>ColaCheese/whisky-fe</a> - 2024-10-10
-* 📝 *Create* <a href=https://github.com/ColaCheese/whisky-fe target='_blank'>ColaCheese/whisky-fe</a> - 2024-10-10
+
 <!-- event ends -->
 
 </td>
@@ -133,7 +132,7 @@ Mac                      18 hrs 25 mins      ███████████�
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2025-01-06 09:05:28
+Automatically updated on 2025-01-13 09:06:13
 <!-- time ends -->
 </i>
 </p>
