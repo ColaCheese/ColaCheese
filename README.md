@@ -91,7 +91,11 @@ Mac                      18 hrs 25 mins      ███████████�
 #### 🏂 `Current Blogs`
 
 <!-- blog starts -->
-
+* <a href=https://juejin.cn/post/7267092670823252029 title='当 VuePress 遇上 Vuetify' target='_blank'>当 VuePress 遇上 Vuetify</a> - 1年前
+* <a href=https://juejin.cn/post/7267091509971189818 title='前端学习笔记 1：防抖和节流' target='_blank'>前端学习笔记 1：防抖和节流</a> - 1年前
+* <a href=https://juejin.cn/post/7267091417029427261 title='Java学习笔记 6：WEB代理服务器' target='_blank'>Java学习笔记 6：WEB代理服务器</a> - 1年前
+* <a href=https://juejin.cn/post/7267091417029394493 title='Java学习笔记 5：WEB 服务器和客户端' target='_blank'>Java学习笔记 5：WEB 服务器和客户端</a> - 1年前
+* <a href=https://juejin.cn/post/7267088345402097719 title='Java学习笔记 4：基于 TCP & UDP 的网络文件服务' target='_blank'>Java学习笔记 4：基于 TCP & UDP 的网络文件服务</a> - 1年前
 <!-- blog ends -->
 
 </td>
@@ -103,7 +107,11 @@ Mac                      18 hrs 25 mins      ███████████�
 #### 🍻 `Recent Stars`
 
 <!-- star starts -->
-
+* <a href=https://juejin.cn/post/7419272082595708955 title='📊 弃用 Echarts！这一次我选择 - Vue Data UI！' target='_blank'>📊 弃用 Echarts！这一次我选择 - Vue Data UI！</a>
+* <a href=https://juejin.cn/post/7426319406358511651 title='前端大佬都在用的usePagination究竟有多强？' target='_blank'>前端大佬都在用的usePagination究竟有多强？</a>
+* <a href=https://juejin.cn/post/7395024434681741363 title='如何用 VsCode 开发 uni-app 项目？' target='_blank'>如何用 VsCode 开发 uni-app 项目？</a>
+* <a href=https://juejin.cn/post/7329034439408615451 title='🔥2024年最好用的 uniapp 开发模板 unibest，近一个月 star 数飙升！🔥' target='_blank'>🔥2024年最好用的 uniapp 开发模板 unibest，近一个月 star 数飙升！🔥</a>
+* <a href=https://juejin.cn/post/7396933333493170228 title='巧妙解决浏览器插件中的跨域问题：一个实用方案' target='_blank'>巧妙解决浏览器插件中的跨域问题：一个实用方案</a>
 <!-- star ends -->
 
 </td>
@@ -132,7 +140,7 @@ Mac                      18 hrs 25 mins      ███████████�
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2025-01-27 09:02:23
+Automatically updated on 2025-02-03 09:02:25
 <!-- time ends -->
 </i>
 </p>
