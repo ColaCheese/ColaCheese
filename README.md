@@ -91,7 +91,11 @@ Mac                      18 hrs 25 mins      ███████████�
 #### 🏂 `Current Blogs`
 
 <!-- blog starts -->
-
+* <a href=https://juejin.cn/post/7267092670823252029 title='当 VuePress 遇上 Vuetify' target='_blank'>当 VuePress 遇上 Vuetify</a> - 2年前
+* <a href=https://juejin.cn/post/7267091509971189818 title='前端学习笔记 1：防抖和节流' target='_blank'>前端学习笔记 1：防抖和节流</a> - 2年前
+* <a href=https://juejin.cn/post/7267091417029427261 title='Java学习笔记 6：WEB代理服务器' target='_blank'>Java学习笔记 6：WEB代理服务器</a> - 2年前
+* <a href=https://juejin.cn/post/7267091417029394493 title='Java学习笔记 5：WEB 服务器和客户端' target='_blank'>Java学习笔记 5：WEB 服务器和客户端</a> - 2年前
+* <a href=https://juejin.cn/post/7267088345402097719 title='Java学习笔记 4：基于 TCP & UDP 的网络文件服务' target='_blank'>Java学习笔记 4：基于 TCP & UDP 的网络文件服务</a> - 2年前
 <!-- blog ends -->
 
 </td>
@@ -103,7 +107,11 @@ Mac                      18 hrs 25 mins      ███████████�
 #### 🍻 `Recent Stars`
 
 <!-- star starts -->
-
+* <a href=https://juejin.cn/post/7433687162870530084 title='最强平替Postman的工具，拒绝浏览器套壳' target='_blank'>最强平替Postman的工具，拒绝浏览器套壳</a>
+* <a href=https://juejin.cn/post/7374702793562374194 title='React Native 0.74 Android 环境搭建指南' target='_blank'>React Native 0.74 Android 环境搭建指南</a>
+* <a href=https://juejin.cn/post/7369861479384875049 title='React Native 开发心得分享' target='_blank'>React Native 开发心得分享</a>
+* <a href=https://juejin.cn/post/7375072185210159116 title='拜托：vue项目，别再盲目的用 router.addRoute 动态添加路由的方案，去实现路由鉴权了好吗！' target='_blank'>拜托：vue项目，别再盲目的用 router.addRoute 动态添加路由的方案，去实现路由鉴权了好吗！</a>
+* <a href=https://juejin.cn/post/7419272082595708955 title='📊 弃用 Echarts！这一次我选择 - Vue Data UI！' target='_blank'>📊 弃用 Echarts！这一次我选择 - Vue Data UI！</a>
 <!-- star ends -->
 
 </td>
@@ -132,7 +140,7 @@ Mac                      18 hrs 25 mins      ███████████�
 <p align="center">
 <i>
 <!-- time starts -->
-Automatically updated on 2025-09-22 09:12:25
+Automatically updated on 2025-09-29 09:09:00
 <!-- time ends -->
 </i>
 </p>
