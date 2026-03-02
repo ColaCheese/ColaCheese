@@ -44,16 +44,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               7 mins              █████████████████████████   100.00 % 
+TypeScript               7 hrs 39 mins       ███████████████░░░░░░░░░░   59.70 % 
+Vue.js                   3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+JSON                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+CSS                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  12 hrs 50 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-whisky-app               7 mins              █████████████████████████   100.00 % 
+whisky-app               7 hrs 51 mins       ███████████████░░░░░░░░░░   61.18 % 
+AI-Mock                  4 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   35.13 % 
+react-conf-app           28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Mac                      12 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 
