@@ -24,13 +24,13 @@
 <summary align="center">More Data 👆</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.85%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.86%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 32.6 kB Used in GitHub's Storage 
+> 📦 32.8 kB Used in GitHub's Storage 
  > 
-> 🏆 2 Contributions in the Year 2026
+> 🏆 5 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,22 +44,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               9 hrs 36 mins       ███████████████████████░░   91.54 % 
-Vue.js                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+TypeScript               2 hrs 29 mins       ████████████████░░░░░░░░░   62.16 % 
+Other                    57 mins             ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  4 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-whisky-app               9 hrs 40 mins       ███████████████████████░░   92.10 % 
-AI-Mock                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-react-conf-app           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+whisky-app               4 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      4 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 
