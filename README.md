@@ -44,20 +44,21 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 29 mins       ████████████████░░░░░░░░░   62.16 % 
-Other                    57 mins             ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+TypeScript               3 hrs 50 mins       ██████████████████░░░░░░░   70.16 % 
+JSON                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Other                    22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Text                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  5 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-whisky-app               4 hrs 1 min         █████████████████████████   100.00 % 
+whisky-app               5 hrs 28 mins       █████████████████████████   100.00 % 
+repo                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      5 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 
