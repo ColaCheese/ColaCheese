@@ -24,11 +24,11 @@
 <summary align="center">More Data 👆</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.86%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.88%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 32.8 kB Used in GitHub's Storage 
+> 📦 41.4 kB Used in GitHub's Storage 
  > 
 > 🏆 5 Contributions in the Year 2026
  > 
@@ -44,22 +44,22 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 9 mins       ███████████████████░░░░░░   75.00 % 
-Other                    2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Markdown                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+TypeScript               4 hrs 42 mins       ███████████████████░░░░░░   74.99 % 
+Other                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 32 mins      █████████████████████████   100.00 % 
+VS Code                  6 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-whisky-app               13 hrs 24 mins      █████████████████████████   99.01 % 
-repo                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-AI-Mock                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+whisky-app               6 hrs 14 mins       █████████████████████████   99.40 % 
+AI-Mock                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+repo                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      6 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 
