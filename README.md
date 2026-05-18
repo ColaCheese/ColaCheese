@@ -24,13 +24,13 @@
 <summary align="center">More Data 👆</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.88%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.90%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 41.4 kB Used in GitHub's Storage 
+> 📦 41.5 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2026
+> 🏆 6 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,30 +38,6 @@
  > 
 > 🔑 2 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               4 hrs 42 mins       ███████████████████░░░░░░   74.99 % 
-Other                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-XML                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-
-🔥 Editors: 
-VS Code                  6 hrs 16 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-whisky-app               6 hrs 14 mins       █████████████████████████   99.40 % 
-AI-Mock                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-repo                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-💻 Operating System: 
-Mac                      6 hrs 16 mins       █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
