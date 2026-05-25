@@ -24,11 +24,11 @@
 <summary align="center">More Data 👆</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.90%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.91%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 41.5 kB Used in GitHub's Storage 
+> 📦 42.0 kB Used in GitHub's Storage 
  > 
 > 🏆 6 Contributions in the Year 2026
  > 
@@ -38,6 +38,32 @@
  > 
 > 🔑 2 Private Repositories 
  > 
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               12 hrs 24 mins      █████████████████░░░░░░░░   67.08 % 
+Markdown                 2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Go                       1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+
+🔥 Editors: 
+VS Code                  18 hrs 29 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+whisky-app               14 hrs 38 mins      ████████████████████░░░░░   79.21 % 
+whisky                   3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
+repo                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+op7418-logo-generator-ski11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+codex                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+
+💻 Operating System: 
+Mac                      18 hrs 29 mins      █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
