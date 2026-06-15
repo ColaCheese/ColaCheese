@@ -24,11 +24,11 @@
 <summary align="center">More Data 👆</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.96%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.97%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 46.0 kB Used in GitHub's Storage 
+> 📦 54.1 kB Used in GitHub's Storage 
  > 
 > 🏆 7 Contributions in the Year 2026
  > 
@@ -44,24 +44,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               11 hrs 30 mins      ███████████████████░░░░░░   77.76 % 
-YAML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Swift                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+TypeScript               5 hrs 55 mins       ████████████████████████░   94.11 % 
+Swift                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 48 mins      █████████████████████████   100.00 % 
+VS Code                  6 hrs 17 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-whisky-app               14 hrs 21 mins      ████████████████████████░   96.95 % 
-MzBjMjAwMzgtODY0OC00NWYzL20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-ZWU4OGU1MDUtMzgzZC00MjA3L2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-repo                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-ZmEwMDZhNzktNzJlOS00M2NiL1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+whisky-app               6 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      6 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
