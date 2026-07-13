@@ -24,13 +24,13 @@
 <summary align="center">More Data 👆</summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.00%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.04%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 161.4 kB Used in GitHub's Storage 
+> 📦 165.6 kB Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2026
+> 🏆 9 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,16 +44,20 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               7 hrs 46 mins       ████████████████████████░   94.01 % 
+Swift                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Go                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  8 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+whisky-app               8 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 
